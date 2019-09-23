@@ -6,7 +6,6 @@ Please complete the following challenges to the best of your ability.
 Transaction Processing
 You will be provided with a list of transactions from a consumer bank account and you need to process them.
 
-Take your time and make sure that you consider your solutions production-ready. Although a timer is shown, there is no limit and we do not take time into consideration when reviewing your solution. The editor supports most modern language constructs, so feel free to use whatever you think makes your solution easier to read.
 
 Some information to help you:
 Each transaction has the following information:
